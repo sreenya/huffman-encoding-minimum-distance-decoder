@@ -5,5 +5,5 @@ Both of these have been thoroughly tested.
 This file consists of python code for generating Huffman codes with the given parameters. It also contains code for the analysis on the variation on different parameters. 
 ## q1_file1, q2_file2, q2_file3, q2_file4
 These are the files used for the testing of the huffman code generator. 
-##
+## minDecoder
 This simulates a binary symmetric channel and a minimum distance decoder. It checks how effective the decoder is and performs graphical analysis for the different parameters. 
